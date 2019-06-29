@@ -1,0 +1,85 @@
+Sat 2017/10/21 17:44:10 gammu-smsd[39556]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/10/21 17:44:10 gammu-smsd[39556]: Connected to Database: db_smsgateway on localhost
+Sat 2017/10/21 17:44:10 gammu-smsd[39556]: Connected to Database native_mysql: db_smsgateway on localhost
+Sat 2017/10/21 17:44:10 gammu-smsd[39556]: Created Windows RW shared memory at 02210000
+Sat 2017/10/21 17:44:10 gammu-smsd[39556]: Starting phone communication...
+Sat 2017/10/21 17:44:18 gammu-smsd[39556]: Inserting phone info
+Sat 2017/10/21 17:44:19 gammu-smsd[39556]: Read 2 messages
+Sat 2017/10/21 17:54:11 gammu-smsd[39556]: Terminating communication...
+Sat 2017/10/21 17:55:10 gammu-smsd[30048]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sat 2017/10/21 17:55:10 gammu-smsd[30048]: Connected to Database: db_smsgateway on localhost
+Sat 2017/10/21 17:55:10 gammu-smsd[30048]: Connected to Database native_mysql: db_smsgateway on localhost
+Sat 2017/10/21 17:55:10 gammu-smsd[30048]: Created Windows RW shared memory at 00440000
+Sat 2017/10/21 17:55:10 gammu-smsd[30048]: Starting phone communication...
+Sat 2017/10/21 17:55:18 gammu-smsd[30048]: Inserting phone info
+Sat 2017/10/21 18:10:01 gammu-smsd[30048]: Read 1 messages
+Sat 2017/10/21 18:24:19 gammu-smsd[30048]: Read 1 messages
+Sat 2017/10/21 18:32:05 gammu-smsd[30048]: Read 1 messages
+Sat 2017/10/21 18:34:01 gammu-smsd[30048]: Read 1 messages
+Sat 2017/10/21 18:43:37 gammu-smsd[30048]: Read 1 messages
+Sat 2017/10/21 19:16:03 gammu-smsd[30048]: Read 1 messages
+Sat 2017/10/21 19:28:01 gammu-smsd[30048]: Read 1 messages
+Sat 2017/10/21 19:58:57 gammu-smsd[30048]: Read 1 messages
+Sat 2017/10/21 20:02:26 gammu-smsd[30048]: Read 1 messages
+Sat 2017/10/21 20:17:00 gammu-smsd[30048]: Error getting send status of message: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sat 2017/10/21 20:54:36 gammu-smsd[30048]: Error getting send status of message: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sat 2017/10/21 20:55:37 gammu-smsd[30048]: Error getting security status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sat 2017/10/21 20:55:37 gammu-smsd[30048]: You might want to set CheckSecurity = 0 to avoid checking security status
+Sat 2017/10/21 20:55:49 gammu-smsd[30048]: Error getting security status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sat 2017/10/21 20:55:49 gammu-smsd[30048]: You might want to set CheckSecurity = 0 to avoid checking security status
+Sat 2017/10/21 20:56:01 gammu-smsd[30048]: Error getting security status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sat 2017/10/21 20:56:01 gammu-smsd[30048]: You might want to set CheckSecurity = 0 to avoid checking security status
+Sat 2017/10/21 20:56:01 gammu-smsd[30048]: Already hit 3 errors
+Sat 2017/10/21 20:56:01 gammu-smsd[30048]: Terminating communication: Unknown error. (UNKNOWN[27])
+Sat 2017/10/21 20:56:01 gammu-smsd[30048]: Starting phone communication...
+Sat 2017/10/21 20:56:11 gammu-smsd[30048]: Error at init connection: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sat 2017/10/21 20:56:11 gammu-smsd[30048]: Already hit 250 errors
+Sat 2017/10/21 20:56:11 gammu-smsd[30048]: Terminating communication: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sat 2017/10/21 20:56:11 gammu-smsd[30048]: Going to 30 seconds sleep because of too much connection errors
+Sat 2017/10/21 20:56:41 gammu-smsd[30048]: Starting phone communication...
+Sat 2017/10/21 20:56:48 gammu-smsd[30048]: Soft reset return code: Function not supported by phone. (NOTSUPPORTED[21])
+Sat 2017/10/21 20:56:54 gammu-smsd[30048]: Read 2 messages
+Sat 2017/10/21 20:57:49 gammu-smsd[30048]: Read 1 messages
+Sat 2017/10/21 20:58:01 gammu-smsd[30048]: Read 1 messages
+Sat 2017/10/21 21:07:29 gammu-smsd[30048]: Read 1 messages
+Sat 2017/10/21 21:07:39 gammu-smsd[30048]: Read 1 messages
+Sat 2017/10/21 21:07:49 gammu-smsd[30048]: Read 1 messages
+Sat 2017/10/21 22:07:32 gammu-smsd[30048]: Error getting security status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sat 2017/10/21 22:07:32 gammu-smsd[30048]: You might want to set CheckSecurity = 0 to avoid checking security status
+Sat 2017/10/21 22:07:42 gammu-smsd[30048]: Error getting security status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sat 2017/10/21 22:07:42 gammu-smsd[30048]: You might want to set CheckSecurity = 0 to avoid checking security status
+Sat 2017/10/21 22:07:52 gammu-smsd[30048]: Error getting security status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sat 2017/10/21 22:07:52 gammu-smsd[30048]: You might want to set CheckSecurity = 0 to avoid checking security status
+Sat 2017/10/21 22:07:52 gammu-smsd[30048]: Already hit 3 errors
+Sat 2017/10/21 22:07:52 gammu-smsd[30048]: Terminating communication: Entry is empty. (EMPTY[22])
+Sat 2017/10/21 22:07:52 gammu-smsd[30048]: Starting phone communication...
+Sat 2017/10/21 22:07:59 gammu-smsd[30048]: Soft reset return code: Function not supported by phone. (NOTSUPPORTED[21])
+Sat 2017/10/21 22:10:15 gammu-smsd[30048]: Read 1 messages
+Sat 2017/10/21 22:10:23 gammu-smsd[30048]: Read 1 messages
+Sat 2017/10/21 22:13:55 gammu-smsd[30048]: Error getting security status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sat 2017/10/21 22:13:55 gammu-smsd[30048]: You might want to set CheckSecurity = 0 to avoid checking security status
+Sat 2017/10/21 22:14:05 gammu-smsd[30048]: Error getting security status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sat 2017/10/21 22:14:05 gammu-smsd[30048]: You might want to set CheckSecurity = 0 to avoid checking security status
+Sat 2017/10/21 22:14:15 gammu-smsd[30048]: Error getting security status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sat 2017/10/21 22:14:15 gammu-smsd[30048]: You might want to set CheckSecurity = 0 to avoid checking security status
+Sat 2017/10/21 22:14:15 gammu-smsd[30048]: Already hit 3 errors
+Sat 2017/10/21 22:14:15 gammu-smsd[30048]: Terminating communication: Entry is empty. (EMPTY[22])
+Sat 2017/10/21 22:14:15 gammu-smsd[30048]: Starting phone communication...
+Sat 2017/10/21 22:14:22 gammu-smsd[30048]: Soft reset return code: Function not supported by phone. (NOTSUPPORTED[21])
+Sat 2017/10/21 22:20:44 gammu-smsd[30048]: Read 1 messages
+Sun 2017/10/22 05:41:53 gammu-smsd[25316]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sun 2017/10/22 05:41:53 gammu-smsd[25316]: Connected to Database: db_smsgateway on localhost
+Sun 2017/10/22 05:41:53 gammu-smsd[25316]: Connected to Database native_mysql: db_smsgateway on localhost
+Sun 2017/10/22 05:41:53 gammu-smsd[25316]: Created Windows RW shared memory at 00500000
+Sun 2017/10/22 05:41:53 gammu-smsd[25316]: Starting phone communication...
+Sun 2017/10/22 05:42:02 gammu-smsd[25316]: Inserting phone info
+Sun 2017/10/22 05:42:04 gammu-smsd[25316]: Read 5 messages
+Sun 2017/10/22 05:42:14 gammu-smsd[25316]: Terminating communication...
+Sun 2017/10/22 06:36:11 gammu-smsd[24492]: MYSQL service is deprecated. Please use SQL service with correct driver.
+Sun 2017/10/22 06:36:11 gammu-smsd[24492]: Connected to Database: db_smsgateway on localhost
+Sun 2017/10/22 06:36:11 gammu-smsd[24492]: Connected to Database native_mysql: db_smsgateway on localhost
+Sun 2017/10/22 06:36:11 gammu-smsd[24492]: Created Windows RW shared memory at 00480000
+Sun 2017/10/22 06:36:11 gammu-smsd[24492]: Starting phone communication...
+Sun 2017/10/22 06:36:20 gammu-smsd[24492]: Inserting phone info
+Sun 2017/10/22 06:36:21 gammu-smsd[24492]: Read 1 messages
+Sun 2017/10/22 06:36:22 gammu-smsd[24492]: Terminating communication...

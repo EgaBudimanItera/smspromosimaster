@@ -1,0 +1,267 @@
+Sun 2017/10/22 10:47:47 gammu-smsd[7096]: Warning: No PIN code in D:\Gammu\bin\smsdrc file
+Sun 2017/10/22 10:47:47 gammu-smsd[7096]: Connected to Database: sms on localhost
+Sun 2017/10/22 10:47:47 gammu-smsd[7096]: Connected to Database native_mysql: sms on localhost
+Sun 2017/10/22 10:47:47 gammu-smsd[7096]: Created Windows RW shared memory at 01CC0000
+Sun 2017/10/22 10:47:47 gammu-smsd[7096]: Starting phone communication...
+Sun 2017/10/22 10:47:56 gammu-smsd[7096]: Inserting phone info
+Sun 2017/10/22 10:47:57 gammu-smsd[7096]: Read 2 messages
+Sun 2017/10/22 10:48:27 gammu-smsd[7096]: Read 1 messages
+Sun 2017/10/22 10:49:30 gammu-smsd[7096]: Error getting send status of message: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sun 2017/10/22 10:50:31 gammu-smsd[7096]: Error getting security status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sun 2017/10/22 10:50:31 gammu-smsd[7096]: You might want to set CheckSecurity = 0 to avoid checking security status
+Sun 2017/10/22 10:50:43 gammu-smsd[7096]: Error getting security status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sun 2017/10/22 10:50:43 gammu-smsd[7096]: You might want to set CheckSecurity = 0 to avoid checking security status
+Sun 2017/10/22 10:50:55 gammu-smsd[7096]: Error getting security status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sun 2017/10/22 10:50:55 gammu-smsd[7096]: You might want to set CheckSecurity = 0 to avoid checking security status
+Sun 2017/10/22 10:50:55 gammu-smsd[7096]: Already hit 3 errors
+Sun 2017/10/22 10:50:55 gammu-smsd[7096]: Terminating communication: Unknown error. (UNKNOWN[27])
+Sun 2017/10/22 10:50:55 gammu-smsd[7096]: Starting phone communication...
+Sun 2017/10/22 10:51:05 gammu-smsd[7096]: Error at init connection: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sun 2017/10/22 10:51:05 gammu-smsd[7096]: Already hit 250 errors
+Sun 2017/10/22 10:51:05 gammu-smsd[7096]: Terminating communication: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sun 2017/10/22 10:51:05 gammu-smsd[7096]: Going to 30 seconds sleep because of too much connection errors
+Sun 2017/10/22 10:51:35 gammu-smsd[7096]: Starting phone communication...
+Sun 2017/10/22 10:51:46 gammu-smsd[7096]: Error at init connection: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sun 2017/10/22 10:51:46 gammu-smsd[7096]: Already hit 250 errors
+Sun 2017/10/22 10:51:46 gammu-smsd[7096]: Terminating communication: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sun 2017/10/22 10:51:46 gammu-smsd[7096]: Going to 30 seconds sleep because of too much connection errors
+Sun 2017/10/22 10:52:16 gammu-smsd[7096]: Starting phone communication...
+Sun 2017/10/22 10:52:27 gammu-smsd[7096]: Error at init connection: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sun 2017/10/22 10:52:27 gammu-smsd[7096]: Already hit 250 errors
+Sun 2017/10/22 10:52:27 gammu-smsd[7096]: Terminating communication: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sun 2017/10/22 10:52:27 gammu-smsd[7096]: Going to 30 seconds sleep because of too much connection errors
+Sun 2017/10/22 10:52:57 gammu-smsd[7096]: Starting phone communication...
+Sun 2017/10/22 10:53:06 gammu-smsd[7096]: Soft reset return code: Function not supported by phone. (NOTSUPPORTED[21])
+Sun 2017/10/22 10:53:12 gammu-smsd[7096]: Read 1 messages
+Sun 2017/10/22 11:13:56 gammu-smsd[7096]: Read 1 messages
+Sun 2017/10/22 11:33:09 gammu-smsd[7096]: Error getting security status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sun 2017/10/22 11:33:09 gammu-smsd[7096]: You might want to set CheckSecurity = 0 to avoid checking security status
+Sun 2017/10/22 11:33:21 gammu-smsd[7096]: Error getting security status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sun 2017/10/22 11:33:21 gammu-smsd[7096]: You might want to set CheckSecurity = 0 to avoid checking security status
+Sun 2017/10/22 11:33:33 gammu-smsd[7096]: Error getting security status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Sun 2017/10/22 11:33:33 gammu-smsd[7096]: You might want to set CheckSecurity = 0 to avoid checking security status
+Sun 2017/10/22 11:33:33 gammu-smsd[7096]: Already hit 3 errors
+Sun 2017/10/22 11:33:33 gammu-smsd[7096]: Terminating communication: Entry is empty. (EMPTY[22])
+Sun 2017/10/22 11:33:33 gammu-smsd[7096]: Starting phone communication...
+Sun 2017/10/22 11:33:33 gammu-smsd[7096]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Sun 2017/10/22 11:33:33 gammu-smsd[7096]: Failed to start SMSD, Error 5: Access is denied.
+
+
+Sun 2017/10/22 11:39:24 gammu-smsd[6504]: Warning: No PIN code in D:\Gammu\bin\smsdrc file
+Sun 2017/10/22 11:39:24 gammu-smsd[6504]: Connected to Database: sms on localhost
+Sun 2017/10/22 11:39:24 gammu-smsd[6504]: Connected to Database native_mysql: sms on localhost
+Sun 2017/10/22 11:39:24 gammu-smsd[6504]: Created Windows RW shared memory at 00EA0000
+Sun 2017/10/22 11:39:24 gammu-smsd[6504]: Starting phone communication...
+Sun 2017/10/22 11:39:24 gammu-smsd[6504]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Sun 2017/10/22 11:39:24 gammu-smsd[6504]: Failed to start SMSD, Error 3: The system cannot find the path specified.
+
+
+Sun 2017/10/22 11:39:58 gammu-smsd[4928]: Warning: No PIN code in D:\Gammu\bin\smsdrc file
+Sun 2017/10/22 11:39:58 gammu-smsd[4928]: Connected to Database: sms on localhost
+Sun 2017/10/22 11:39:58 gammu-smsd[4928]: Connected to Database native_mysql: sms on localhost
+Sun 2017/10/22 11:39:58 gammu-smsd[4928]: Created Windows RW shared memory at 005F0000
+Sun 2017/10/22 11:39:58 gammu-smsd[4928]: Starting phone communication...
+Sun 2017/10/22 11:40:07 gammu-smsd[4928]: Inserting phone info
+Sun 2017/10/22 11:41:40 gammu-smsd[4928]: Read 1 messages
+Sun 2017/10/22 14:10:36 gammu-smsd[4928]: Error code: 2006, Error: MySQL server has gone away
+Sun 2017/10/22 14:10:36 gammu-smsd[4928]: SQL failed (timeout): SELECT `ID`, `InsertIntoDB`, `SendingDateTime`, `SenderID` FROM outbox WHERE `SendingDateTime` < NOW() AND `SendingTimeOut` < NOW() AND `SendBefore` >= CURTIME() AND `SendAfter` <= CURTIME() AND ( `SenderID` is NULL OR `SenderID` = '' OR `SenderID` = '' ) ORDER BY `InsertIntoDB` ASC LIMIT 8
+Sun 2017/10/22 14:10:36 gammu-smsd[4928]: reconnecting to database!
+Sun 2017/10/22 14:10:36 gammu-smsd[4928]: Reconnecting after 1 seconds...
+Sun 2017/10/22 14:10:38 gammu-smsd[4928]: Error connecting to database!
+Sun 2017/10/22 14:10:38 gammu-smsd[4928]: Error code: 2003, Error: Can't connect to MySQL server on 'localhost' (10061)
+Sun 2017/10/22 14:10:38 gammu-smsd[4928]: Reconnecting after 4 seconds...
+Sun 2017/10/22 14:10:43 gammu-smsd[4928]: Error connecting to database!
+Sun 2017/10/22 14:10:43 gammu-smsd[4928]: Error code: 2003, Error: Can't connect to MySQL server on 'localhost' (10061)
+Sun 2017/10/22 14:10:43 gammu-smsd[4928]: Reconnecting after 9 seconds...
+Sun 2017/10/22 19:34:05 gammu-smsd[1892]: Warning: No PIN code in D:\Gammu\bin\smsdrc file
+Sun 2017/10/22 19:34:08 gammu-smsd[1892]: Error connecting to database!
+Sun 2017/10/22 19:34:08 gammu-smsd[1892]: Error code: 2003, Error: Can't connect to MySQL server on 'localhost' (10061)
+Sun 2017/10/22 19:34:08 gammu-smsd[1892]: Initialisation failed, stopping Gammu smsd: Unknown error. (UNKNOWN[27])
+Sun 2017/10/22 19:34:08 gammu-smsd[1892]: Failed to start SMSD, Error 3: The system cannot find the path specified.
+
+
+Sun 2017/10/22 19:37:35 gammu-smsd[1756]: Warning: No PIN code in D:\Gammu\bin\smsdrc file
+Sun 2017/10/22 19:37:35 gammu-smsd[1756]: Connected to Database: sms on localhost
+Sun 2017/10/22 19:37:35 gammu-smsd[1756]: Connected to Database native_mysql: sms on localhost
+Sun 2017/10/22 19:37:35 gammu-smsd[1756]: Created Windows RW shared memory at 00F30000
+Sun 2017/10/22 19:37:35 gammu-smsd[1756]: Starting phone communication...
+Sun 2017/10/22 19:37:45 gammu-smsd[1756]: Inserting phone info
+Sun 2017/10/22 19:37:46 gammu-smsd[1756]: Read 2 messages
+Sun 2017/10/22 19:46:49 gammu-smsd[1756]: Read 1 messages
+Sun 2017/10/22 20:22:24 gammu-smsd[5780]: Warning: No PIN code in D:\Gammu\bin\smsdrc file
+Sun 2017/10/22 20:22:24 gammu-smsd[5780]: Connected to Database: sms on localhost
+Sun 2017/10/22 20:22:24 gammu-smsd[5780]: Connected to Database native_mysql: sms on localhost
+Sun 2017/10/22 20:22:24 gammu-smsd[5780]: Created Windows RW shared memory at 004A0000
+Sun 2017/10/22 20:22:24 gammu-smsd[5780]: Starting phone communication...
+Sun 2017/10/22 20:22:24 gammu-smsd[5780]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Sun 2017/10/22 20:22:24 gammu-smsd[5780]: Failed to start SMSD, Error 3: The system cannot find the path specified.
+
+
+Sun 2017/10/22 20:34:18 gammu-smsd[3940]: Warning: No PIN code in D:\Gammu\bin\smsdrc file
+Sun 2017/10/22 20:34:18 gammu-smsd[3940]: Connected to Database: sms on localhost
+Sun 2017/10/22 20:34:18 gammu-smsd[3940]: Connected to Database native_mysql: sms on localhost
+Sun 2017/10/22 20:34:18 gammu-smsd[3940]: Created Windows RW shared memory at 00540000
+Sun 2017/10/22 20:34:18 gammu-smsd[3940]: Starting phone communication...
+Sun 2017/10/22 20:34:27 gammu-smsd[3940]: Inserting phone info
+Sun 2017/10/22 20:34:28 gammu-smsd[3940]: Read 2 messages
+Sun 2017/10/22 20:36:02 gammu-smsd[3940]: Read 1 messages
+Sun 2017/10/22 20:37:08 gammu-smsd[3940]: Read 1 messages
+Sun 2017/10/22 20:38:21 gammu-smsd[3940]: Read 1 messages
+Sun 2017/10/22 20:39:41 gammu-smsd[3940]: Read 1 messages
+Sun 2017/10/22 20:40:03 gammu-smsd[3940]: Read 1 messages
+Sun 2017/10/22 21:03:11 gammu-smsd[3940]: Error code: 2006, Error: MySQL server has gone away
+Sun 2017/10/22 21:03:11 gammu-smsd[3940]: SQL failed (timeout): UPDATE phones SET `TimeOut`= (NOW() + INTERVAL 10 SECOND) + 0, `Battery` = 100, `Signal` = 48 WHERE `IMEI` = '359769026326659'
+Sun 2017/10/22 21:03:11 gammu-smsd[3940]: reconnecting to database!
+Sun 2017/10/22 21:03:11 gammu-smsd[3940]: Reconnecting after 1 seconds...
+Sun 2017/10/22 21:03:13 gammu-smsd[3940]: Error connecting to database!
+Sun 2017/10/22 21:03:13 gammu-smsd[3940]: Error code: 2003, Error: Can't connect to MySQL server on 'localhost' (10061)
+Sun 2017/10/22 21:03:13 gammu-smsd[3940]: Reconnecting after 4 seconds...
+Mon 2017/10/23 08:38:54 gammu-smsd[1896]: Warning: No PIN code in D:\Gammu\bin\smsdrc file
+Mon 2017/10/23 08:38:58 gammu-smsd[1896]: Error connecting to database!
+Mon 2017/10/23 08:38:58 gammu-smsd[1896]: Error code: 2003, Error: Can't connect to MySQL server on 'localhost' (10061)
+Mon 2017/10/23 08:38:58 gammu-smsd[1896]: Initialisation failed, stopping Gammu smsd: Unknown error. (UNKNOWN[27])
+Mon 2017/10/23 08:38:58 gammu-smsd[1896]: Failed to start SMSD, Error 3: The system cannot find the path specified.
+
+
+Mon 2017/10/23 08:45:45 gammu-smsd[1908]: Warning: No PIN code in D:\Gammu\bin\smsdrc file
+Mon 2017/10/23 08:45:51 gammu-smsd[1908]: Error connecting to database!
+Mon 2017/10/23 08:45:51 gammu-smsd[1908]: Error code: 2003, Error: Can't connect to MySQL server on 'localhost' (10061)
+Mon 2017/10/23 08:45:51 gammu-smsd[1908]: Initialisation failed, stopping Gammu smsd: Unknown error. (UNKNOWN[27])
+Mon 2017/10/23 08:45:51 gammu-smsd[1908]: Failed to start SMSD, Error 3: The system cannot find the path specified.
+
+
+Mon 2017/10/23 08:50:43 gammu-smsd[1056]: Warning: No PIN code in D:\Gammu\bin\smsdrc file
+Mon 2017/10/23 08:50:43 gammu-smsd[1056]: Connected to Database: sms on localhost
+Mon 2017/10/23 08:50:43 gammu-smsd[1056]: Connected to Database native_mysql: sms on localhost
+Mon 2017/10/23 08:50:43 gammu-smsd[1056]: Created Windows RW shared memory at 00A60000
+Mon 2017/10/23 08:50:43 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 08:50:43 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 08:50:43 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 08:50:43 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 08:50:43 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 08:50:43 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 08:50:43 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 08:50:43 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 08:50:43 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 08:51:14 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 08:51:14 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 08:51:14 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 08:51:45 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 08:51:45 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 08:51:45 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 08:52:16 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 08:52:16 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 08:52:16 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 08:52:47 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 08:52:47 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 08:52:47 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 08:53:18 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 08:53:18 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 08:53:18 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 08:53:49 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 08:53:49 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 08:53:49 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 08:54:19 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 08:54:19 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 08:54:19 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 08:54:50 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 08:54:50 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 08:54:50 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 08:55:21 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 08:55:21 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 08:55:21 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 08:55:52 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 08:55:52 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 08:55:52 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 08:56:23 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 08:56:23 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 08:56:23 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 08:56:54 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 08:56:54 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 08:56:54 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 08:57:24 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 08:57:24 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 08:57:24 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 08:57:55 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 08:57:55 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 08:57:55 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 08:58:26 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 08:58:26 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 08:58:26 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 08:58:57 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 08:58:57 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 08:58:57 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 08:59:27 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 08:59:27 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 08:59:27 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 08:59:57 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 08:59:57 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 08:59:57 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 09:48:06 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 09:48:06 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 09:48:06 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 09:48:37 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 09:48:37 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 09:48:37 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 09:49:07 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 09:49:07 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 09:49:07 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 09:49:38 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 09:49:38 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 09:49:38 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 09:50:09 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 09:50:09 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 09:50:09 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 09:50:39 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 09:50:39 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 09:50:39 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 09:51:09 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 09:51:09 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 09:51:09 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 09:51:39 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 09:51:39 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 09:51:39 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 09:52:09 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 09:52:09 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 09:52:09 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 09:52:40 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 09:52:40 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 09:52:40 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 09:53:11 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 09:53:11 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 09:53:11 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 09:53:41 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 09:53:41 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 09:53:41 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 09:54:12 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 09:54:12 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 09:54:12 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 09:54:43 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 09:54:43 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 09:54:43 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 09:55:14 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 09:55:14 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 09:55:14 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 09:55:44 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 09:55:44 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 09:55:44 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 09:56:15 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 09:56:15 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 09:56:15 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 09:56:46 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 09:56:46 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 09:56:46 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 09:57:17 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 09:57:17 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 09:57:17 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 09:57:48 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 09:57:48 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 09:57:48 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 09:58:18 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 09:58:18 gammu-smsd[1056]: Error at init connection: Error opening device, it doesn't exist. (DEVICENOTEXIST[4])
+Mon 2017/10/23 09:58:18 gammu-smsd[1056]: Going to 30 seconds sleep because of too much connection errors
+Mon 2017/10/23 09:58:49 gammu-smsd[1056]: Starting phone communication...
+Mon 2017/10/23 09:58:49 gammu-smsd[1056]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Mon 2017/10/23 09:58:49 gammu-smsd[1056]: Failed to start SMSD, Error 32: The process cannot access the file because it is being used by another process.
+
+

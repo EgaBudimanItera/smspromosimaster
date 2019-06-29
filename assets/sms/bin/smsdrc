@@ -1,0 +1,17 @@
+[gammu]
+device=com5
+connection=at460800
+[smsd]
+service=sql
+driver=native_mysql
+DeliveryReport=sms
+checksecurity=0
+debuglevel=0
+commtimeout=10
+sendtimeout=10
+send=yes
+receive=yes
+pc=localhost
+user=root
+password=
+database=sms

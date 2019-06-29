@@ -1,0 +1,9 @@
+command install gammu service
+
+1. gammu identify
+
+2.gammu-smsd -c smsdrc -i // install gammu service
+
+3.gammu-smsd -c smsdrc -s // start gammu service
+
+4.gammu-smsd -c smsdrc -u //uninstal gammu service
